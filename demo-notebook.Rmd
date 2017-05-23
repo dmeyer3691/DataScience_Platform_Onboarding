@@ -142,3 +142,5 @@ ggplot() +
 Insights:
 
 * Fill me in with some insightful insights :-)
+* Changing something
+* To demonstrate sync function
